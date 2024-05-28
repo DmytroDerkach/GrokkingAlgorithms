@@ -1,0 +1,14 @@
+target
+**/target/*
+*.iml
+.idea/
+.bsp/
+*.ipr
+*.iws
+
+# osx related
+.DS_Store
+~*
+*.sc
+**/node_modules/*
+**/coverage/*
